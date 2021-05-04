@@ -154,3 +154,17 @@ tags
 
 ## Persistent undo
 [._]*.un~
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+*.code-workspace
+
+## Local History for Visual Studio Code
+.history/
+
+## Stores VSCode versions used for testing VSCode extensions
+.vscode-test
